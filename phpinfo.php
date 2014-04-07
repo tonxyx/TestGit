@@ -1,14 +1,18 @@
 <?php
 
-  /**
-  *
-  * Learn some git and you'll find yourself capable to do some job
-  *
-  * Lear it, learn!
-  */
+/**
+ *
+ * Learn some git and you'll find yourself capable to do some job
+ *
+ * Lear it, learn!
+ *
+ */
 
-  //learning some git usage
-  echo phpinfo();
+//learning some git usage
 
-  echo "Authored by Tonxyx!";
+echo phpinfo();
+
+echo "Authored by Tonxyx!";
+
+
 ?>
