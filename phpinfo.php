@@ -14,5 +14,6 @@ echo phpinfo();
 
 echo "Authored by Tonxyx!";
 
+echo "Tonxyx added one new line on line 17!";
 
 ?>
